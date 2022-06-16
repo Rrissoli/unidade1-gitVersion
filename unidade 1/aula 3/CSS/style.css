@@ -1,0 +1,12 @@
+h3{
+    color: red;
+    background-color: black;
+}
+h1.titulo {
+    color: green;
+    background-color: antiquewhite;
+}
+h1#tituloid {
+    color: aqua;
+    background-color: aliceblue;
+}

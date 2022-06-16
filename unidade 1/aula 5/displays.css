@@ -1,0 +1,28 @@
+body{
+    font-size: 200%;
+}
+
+.container{
+    display:flex;
+    background-color: blue;
+    border: 3px solid black;
+    
+    align-items: flex-start;
+    justify-content: flex-start;
+
+}
+.item{
+    width: 100px;
+    background-color: peachpuff;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+.tem1{
+    min-height: 100px;
+}
+.tem2{
+    min-height: 80px;
+}
+.tem3{
+    min-height: 30px;
+}

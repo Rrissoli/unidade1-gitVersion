@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+.bloco1, .bloco2, .bloco3 {
+    background-color: aquamarine;
+   
+}
+header{
+    width: 100%;
+    height: 2em;
+    
+    padding: 0px;
+    border-width: 0px;
+    background-color: black;
+}
+
+
+div {
+    width: 315px;
+    height: 290px;
+   
+}
